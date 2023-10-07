@@ -37,6 +37,7 @@ npm run start
 ```
 
 After running this command, you'll able to see on your terminal which port your Mobile APP is running, And how you can interact with it:
+
 <img width="577" alt="Screenshot 2023-10-06 at 23 19 02" src="https://github.com/lucaspaulodev/tuned-do-mobile/assets/61305960/73b20ef9-edee-4dcc-95f3-cd0f6db56721">
 
 
