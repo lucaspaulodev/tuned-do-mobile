@@ -32,7 +32,9 @@ npm install
 
 ### 3. Run the APP
 
-Find the `.env.example` file and rename it to `.env`. Open it and assign a value to `EXPO_API_PORT=` (THE SAME THAT YOU ASSIGNED ON API_PORT FROM BACKEND PROJECT). And then, run:
+1. Find the `.env.example` file and rename it to `.env`. Open it and assign a value to `EXPO_API_PORT=` (THE SAME THAT YOU ASSIGNED ON API_PORT FROM BACKEND PROJECT).
+2. If you followed the previous step, just fill in `EXPO_IP_ADRESS` with your IPv4. If you don't what is your IPv4, check this [link](https://www.avast.com/c-how-to-find-ip-address).
+3. Run the command:
 
 ```bash
 npm run start
