@@ -28,7 +28,6 @@ export default function Home() {
       <AppWrapper>
         <View style={styles.todoList}>   
           <Header/>
-          {loading ? <Text>Loading...</Text> : null}
           {loading ? (
             <Text>Loading...</Text>
           ) : (
