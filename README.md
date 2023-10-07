@@ -4,6 +4,8 @@ Welcome to Tuned-Do, a project designed to help you manage tasks and stay organi
 
 This project provides a MOBILE application built with React Native and Expo as requested on this link: https://geminisports.notion.site/geminisports/Sr-Full-Stack-Engineer-Technical-Evaluation-811e1b6bd8ca4f5cb893bec29e4531ab.
 
+![IMG_148DD97F44AF-1](https://github.com/lucaspaulodev/tuned-do-mobile/assets/61305960/7de497f2-526e-4192-bd75-369dbfaeaffc)
+
 ## Getting Started
 
 To run this project on your local machine, follow these steps:
